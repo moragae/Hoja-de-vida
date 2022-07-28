@@ -13,3 +13,9 @@ div{
 fieldset{
     margin-bottom: 12px;
 }
+legend{
+    background-color: aqua;
+    padding: 5px;
+    border-radius: 20px;
+    font-weight: bold;
+}
